@@ -13,6 +13,7 @@ This project aims at rebuilding the printf library with basic functionality, It 
  - Specifiers: `c s p d i u x X %`
  
  # Compilation
+ 
 - git clone the repository
 - `cd` into the directory and run `make`
 - create a main.c file and include ft_printf.h to test the functions.
